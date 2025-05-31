@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 🍩 Big Bite Donuts
 
 🚀 Sobre o Projeto Big Bite Donuts é uma aplicação web voltada para a venda e personalização de deliciosos donuts! O projeto foi desenvolvido utilizando HTML, CSS, JavaScript e ReactJS para proporcionar uma experiência dinâmica e interativa.
@@ -57,8 +57,4 @@ git clone https://github.com/Maria/BigBiteDonuts.git
 📱 Versão mobile otimizada
 
 📩 Contato
-<<<<<<< HEAD
 Desenvolvido por Maria 📧 Email: maria.camporprofeta@gmail.comm💻 GitHub: Mariaclara2005
-=======
-Desenvolvido por Maria 📧 Email: maria.camposprofeta@gmail.comm💻 GitHub: Mariaclara2005
->>>>>>> aaca03696acc3a65228f3646d52114285c702406
